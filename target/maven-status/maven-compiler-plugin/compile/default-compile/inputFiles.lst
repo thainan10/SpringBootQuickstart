@@ -1,6 +1,7 @@
-/Users/Thainan/Google Drive/workspace/SpringBootQuickstart/src/main/java/com/quickstart/maven/quickstart/App.java
-/Users/Thainan/Google Drive/workspace/SpringBootQuickstart/src/main/java/com/quickstart/maven/quickstart/dao/PostDao.java
-/Users/Thainan/Google Drive/workspace/SpringBootQuickstart/src/main/java/com/quickstart/maven/quickstart/model/Post.java
-/Users/Thainan/Google Drive/workspace/SpringBootQuickstart/src/main/java/com/quickstart/maven/quickstart/controller/UserController.java
-/Users/Thainan/Google Drive/workspace/SpringBootQuickstart/src/main/java/com/quickstart/maven/quickstart/model/User.java
-/Users/Thainan/Google Drive/workspace/SpringBootQuickstart/src/main/java/com/quickstart/maven/quickstart/dao/UserDao.java
+/home/thainan/workspace/quickstart/src/main/java/com/quickstart/maven/quickstart/model/Post.java
+/home/thainan/workspace/quickstart/src/main/java/com/quickstart/maven/quickstart/controller/UserController.java
+/home/thainan/workspace/quickstart/src/main/java/com/quickstart/maven/quickstart/dao/UserDao.java
+/home/thainan/workspace/quickstart/src/main/java/com/quickstart/maven/quickstart/App.java
+/home/thainan/workspace/quickstart/src/main/java/com/quickstart/maven/quickstart/controller/PostController.java
+/home/thainan/workspace/quickstart/src/main/java/com/quickstart/maven/quickstart/dao/PostDao.java
+/home/thainan/workspace/quickstart/src/main/java/com/quickstart/maven/quickstart/model/User.java
