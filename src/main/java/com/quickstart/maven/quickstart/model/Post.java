@@ -1,14 +1,29 @@
 package com.quickstart.maven.quickstart.model;
 
-public class Post {
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+import javax.validation.constraints.NotNull;
 
-	public Post(String string) {
-		// TODO Auto-generated constructor stub
+@Entity
+@Table(name="posts")
+public class Post {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private long id;
+	
+	@NotNull
+	private String content;
+
+	public Post(String content) {
+		this.content = content;
 	}
 
-	public Object getContent() {
-		// TODO Auto-generated method stub
-		return null;
+	public String getContent() {
+		return this.content;
 	}
 
 }
